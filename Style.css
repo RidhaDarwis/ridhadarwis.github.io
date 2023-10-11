@@ -1,0 +1,39 @@
+.navbar {
+  background-color: #4e6064;
+  font-weight: bold;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  color: white;
+  background-color: #3e4d55;
+}
+
+#PTIK-C {
+  color: white;
+  background-color: #3e4d55;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#bukutamu {
+  color: white;
+  background-color: #3e4d55;
+}
+
+footer {
+  background-color: #3e4d55;
+}
